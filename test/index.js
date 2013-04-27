@@ -1,6 +1,7 @@
 var fetch = require('../')
 var sha = require('sha')
 var rimraf = require('rimraf').sync
+
 before(function () {
   rimraf(__dirname + '/output')
 })
