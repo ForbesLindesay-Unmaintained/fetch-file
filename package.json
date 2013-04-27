@@ -1,6 +1,6 @@
 {
   "name": "fetch-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Download from an http server to a local file.",
   "scripts": {
     "test": "mocha -R list"
