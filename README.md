@@ -1,4 +1,25 @@
-fetch-file
-==========
+# Fetch File
 
-Download from an http server to a local file
+Download from an http server to a local file.
+
+## Installation
+
+    $ npm install sha
+
+## API
+
+### fetch(remote, local, [options,] cb)
+
+Download from `remote` to `local`.
+
+`remote` is an options object to be passed to [request](https://github.com/mikeal/request#requestoptions-callback).  This includes `uri`, `qs`, `method`, `headers` etc...
+
+`local` is the path to a local file.  Its directory will be created using mkdirp if it does not already exist.
+
+Options:
+
+ - `mode` The mode to create files with (default: 0666)
+
+## License
+
+BSD
