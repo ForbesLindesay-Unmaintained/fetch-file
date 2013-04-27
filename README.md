@@ -7,7 +7,7 @@ Download from an http server to a local file.
 
 ## Installation
 
-    $ npm install sha
+    $ npm install fetch-file
 
 ## API
 
