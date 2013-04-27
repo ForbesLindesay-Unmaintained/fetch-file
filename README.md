@@ -2,6 +2,9 @@
 
 Download from an http server to a local file.
 
+[![Build Status](https://travis-ci.org/ForbesLindesay/fetch-file.png?branch=master)](https://travis-ci.org/ForbesLindesay/fetch-file)
+[![Dependency Status](https://gemnasium.com/ForbesLindesay/fetch-file.png)](https://gemnasium.com/ForbesLindesay/fetch-file)
+
 ## Installation
 
     $ npm install sha
