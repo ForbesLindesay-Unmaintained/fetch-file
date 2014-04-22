@@ -2,8 +2,8 @@
 
 Download from an http server to a local file.
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/fetch-file.png?branch=master)](https://travis-ci.org/ForbesLindesay/fetch-file)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/fetch-file.png)](https://gemnasium.com/ForbesLindesay/fetch-file)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/fetch-file/master.svg)](https://travis-ci.org/ForbesLindesay/fetch-file)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/fetch-file.svg)](https://gemnasium.com/ForbesLindesay/fetch-file)
 
 ## Installation
 
