@@ -3,7 +3,7 @@
 Download from an http server to a local file.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/fetch-file/master.svg)](https://travis-ci.org/ForbesLindesay/fetch-file)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/fetch-file.svg)](https://gemnasium.com/ForbesLindesay/fetch-file)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/fetch-file.svg)](https://david-dm.org/ForbesLindesay/fetch-file)
 
 ## Installation
 
