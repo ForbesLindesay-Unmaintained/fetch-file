@@ -1,5 +1,7 @@
 # Fetch File
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/fetch-file.svg)](https://greenkeeper.io/)
+
 Download from an http server to a local file.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/fetch-file/master.svg)](https://travis-ci.org/ForbesLindesay/fetch-file)
