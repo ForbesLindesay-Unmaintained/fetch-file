@@ -11,16 +11,16 @@
   },
   "license": "BSD",
   "optionalDependencies": {
-    "graceful-fs": "1.2"
+    "graceful-fs": "~4.1.11"
   },
   "devDependencies": {
-    "mocha": "~1.9.0",
-    "rimraf": "~2.1.4",
-    "sha": "~1.0.0"
+    "mocha": "~3.2.0",
+    "rimraf": "~2.6.1",
+    "sha": "~2.0.1"
   },
   "dependencies": {
-    "once": "~1.1.1",
-    "mkdirp": "~0.3.5",
-    "request": "~2.20.0"
+    "once": "~1.4.0",
+    "mkdirp": "~0.5.1",
+    "request": "~2.79.0"
   }
 }
